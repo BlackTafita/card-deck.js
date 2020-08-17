@@ -1,5 +1,5 @@
 {
-  "name": "card-deck",
+  "name": "card-deck.js",
   "version": "1.0.1",
   "description": "Card Deck Simulator for Javascript",
   "main": "dist/index.js",
