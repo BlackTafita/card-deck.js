@@ -1,0 +1,24 @@
+{
+  "name": "card-deck",
+  "version": "0.0.1",
+  "description": "Card Deck Simulator for Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/BlackTafita/card-deck.js.git"
+  },
+  "keywords": [
+    "cards",
+    "simulator",
+    "card-deck"
+  ],
+  "author": "BlackTafita",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BlackTafita/card-deck.js/issues"
+  },
+  "homepage": "https://github.com/BlackTafita/card-deck.js#readme"
+}
